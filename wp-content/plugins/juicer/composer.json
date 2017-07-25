@@ -1,7 +1,0 @@
-{
-    "name": "juicer-io/juicer",
-    "description": "Show all your social media posts in a beautiful feed. https://www.juicer.io",
-    "require": {
-        "php": "^3.0 || ^7.0"
-    }
-}
